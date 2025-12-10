@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Christmas Magic",
+  "description": "A 3D interactive particle system controlled by hand gestures. Form a fist to collapse, open hand to explode, and move hand to rotate.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
